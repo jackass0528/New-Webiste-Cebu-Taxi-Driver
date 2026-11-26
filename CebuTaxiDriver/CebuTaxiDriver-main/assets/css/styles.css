@@ -339,3 +339,43 @@ a {
   margin-top: calc(var(--header-height) + 2rem);
   padding: 1.5rem;
 }
+
+.main-content div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+  
+}
+
+.main-content img {
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.main-content h1 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.main-content p {
+  text-align: center;
+  max-width: 600px;
+}
+
+.main-content .a {
+  background-color: var(--black-color-lighten);
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.main-content .b {
+  background-color: var(--black-color-lighten);
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.main-content .c {
+  background-color: var(--black-color-lighten);
+  padding: 1rem;
+  border-radius: 10px;
+}
