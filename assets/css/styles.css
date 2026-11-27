@@ -337,13 +337,13 @@ a {
 /*=============== Main-Content ===============*/
 
 .main-content {
-  margin-top: var(--header-height);
-  padding: 2rem;
+  margin-top: 5rem;
+  padding: 1rem;
 
 }
 
 .section-content {
-  max-width: 800px;
+  max-width: 800p
   margin: 0 auto;
   text-align: center;
 }
@@ -367,7 +367,7 @@ a {
 
 .section-content a:hover {
   color: var(--black-color-light);
-  
+
 }
 
 
